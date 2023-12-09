@@ -20,3 +20,16 @@
 [![image](http://www.moviesoundclips.net/images/fbimage.jpg)](http://www.moviesoundclips.net/)
 
 🔗 Link : http://www.moviesoundclips.net/
+
+
+### 🚀 epidemicsound
+
+[![image](https://www.epidemicsound.com/staticfiles/legacy/20/images/epidemic-sound-logo-square.png)](https://www.epidemicsound.com/)
+
+🔗 Link : https://www.epidemicsound.com/
+
+### 🚀 musicbed
+
+[![image](https://themusicbed.s3.amazonaws.com/site-assets/img/social/facebook-open-graph.png)](https://www.epidemicsound.com/)
+
+🔗 Link : https://www.musicbed.com/songs
